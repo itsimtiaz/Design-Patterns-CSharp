@@ -1,5 +1,3 @@
-using System;
-
 namespace Design_Patterns_CSharp.CreationalPatterns;
 
 public class SingletonPattern
