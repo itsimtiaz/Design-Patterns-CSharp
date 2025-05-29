@@ -13,7 +13,7 @@ public class PrototypePattern : IPrototype<PrototypePattern>
 
     public PrototypePattern Clone()
     {
-        return new() { IdId = Id, Name = Name, Description = Description };
+        return new() { Id = Id, Name = Name, Description = Description };
     }
 
     public override string ToString()
