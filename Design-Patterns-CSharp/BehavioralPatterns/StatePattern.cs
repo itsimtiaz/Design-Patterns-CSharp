@@ -1,5 +1,3 @@
-using System;
-
 namespace Design_Patterns_CSharp.BehavioralPatterns;
 
 interface ISignal
