@@ -1,5 +1,3 @@
-using System;
-
 namespace Design_Patterns_CSharp.StructuralPatterns;
 
 record Icon(string name, string path);
